@@ -1,0 +1,35 @@
+# --- TMC (Test My Code) Specifics ---
+.tmc/
+.tmcproject.json
+.tmcnosubmit
+private/
+
+# --- VS Code ---
+.vscode/
+
+# --- Java (General, Maven, Gradle) ---
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+bin/
+build/
+.gradle/
+.nbproject/
+.settings/
+.classpath
+.project
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+

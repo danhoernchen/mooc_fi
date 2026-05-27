@@ -1,0 +1,217 @@
+course = "mooc-2013-OOProgrammingWithJava-PART1"
+
+[exercises."week1-000.Sandbox"]
+id = 40325
+checksum = "17cad9f923608a6152db7b7d4cebfa8d"
+
+[exercises."week1-001.Name"]
+id = 40326
+checksum = "1fdac4cb41b210b800d1aa838ec3a30c"
+
+[exercises."week1-002.HelloWorld"]
+id = 40327
+checksum = "9a9ca8f9bd59ad5cab24f97a27a9a749"
+
+[exercises."week1-003.Spruce"]
+id = 40328
+checksum = "8411f8e4a1f7b64eacb6bb914e637aad"
+
+[exercises."week1-004.ChangingVariables"]
+id = 40329
+checksum = "0ce003d05483e467ed77f70ebd59f8ad"
+
+[exercises."week1-005.SecondsOfTheYear"]
+id = 40330
+checksum = "e9d889059e5e440897fb917b0ae97c09"
+
+[exercises."week1-006.Addition"]
+id = 40331
+checksum = "43664217906e20c0a5c2998bbeca4092"
+
+[exercises."week1-007.Multiplication"]
+id = 40332
+checksum = "cfe1ad03ed1820ef23b44780981a4cbb"
+
+[exercises."week1-008.Adder"]
+id = 40333
+checksum = "c2d122c561c49c28b498f6935dfcaf3f"
+
+[exercises."week1-009.Divider"]
+id = 40334
+checksum = "aa6812dffccd1b345e51e427e7f33da9"
+
+[exercises."week1-010.CircleCircumference"]
+id = 40335
+checksum = "1fdcd6ac2aba32f89556c057680507aa"
+
+[exercises."week1-011.BiggerNumber"]
+id = 40336
+checksum = "6c484135f525d7f1b195b8a44d2ba6c6"
+
+[exercises."week1-012.SumOfTheAges"]
+id = 40337
+checksum = "0be1b8066def89b4d8323474ad0d178b"
+
+[exercises."week1-013.NhlStatisticsPart1"]
+id = 40338
+checksum = "33eace142f3723919864e3e583c46c92"
+
+[exercises."week1-014.PositiveValue"]
+id = 40339
+checksum = "986a6ed8a92b22522d1a0af7d78cbd7f"
+
+[exercises."week1-015.AgeOfMajority"]
+id = 40340
+checksum = "d5b988457741c738c101d5a5cdd9dac9"
+
+[exercises."week1-016.EvenOrOdd"]
+id = 40341
+checksum = "14f29b7161a65105f890c05e9a6f935b"
+
+[exercises."week1-017.GreaterNumber"]
+id = 40342
+checksum = "dfffbe405ef8faab560c0abe5803917d"
+
+[exercises."week1-018.GradesAndPoints"]
+id = 40343
+checksum = "4f889f6d95d76bd2fa74b1c7985e85dc"
+
+[exercises."week1-019.AgeCheck"]
+id = 40344
+checksum = "e638b56b01e6bc6b8687d8747a89fb5a"
+
+[exercises."week1-020.Usernames"]
+id = 40345
+checksum = "b7d8c60488883527e604a413af53f4f1"
+
+[exercises."week1-021.LeapYear"]
+id = 40346
+checksum = "2a5a916cc80906fdec4077e03a39d89f"
+
+[exercises."week1-022.Password"]
+id = 40347
+checksum = "5cb033aa57ce392b02e3d72d0c99f042"
+
+[exercises."week1-023.Temperatures"]
+id = 40348
+checksum = "ba2d3be0a4a9d697de818e744432a3db"
+
+[exercises."week1-024.NhlStatisticsPart2"]
+id = 40349
+checksum = "c2d4217f7af71c1a3f2ff328745c8f19"
+
+[exercises."week3-043.SumOfNumbers"]
+id = 40368
+checksum = "6c320d230d0f1f031dd473dec4bd8ab7"
+
+[exercises."week3-044.Least"]
+id = 40369
+checksum = "cfaa1b2f1e8f4bf0fd9bda3752e5f2fc"
+
+[exercises."week3-045.Greatest"]
+id = 40370
+checksum = "06d697c5e388abd86daf868542e43202"
+
+[exercises."week3-046.AverageOfGivenNumbers"]
+id = 40371
+checksum = "1301b7b44496f7d544ef520f73eb69e0"
+
+[exercises."week3-047.LengthOfName"]
+id = 40372
+checksum = "c2ebf09b7ab714b0e2e4303659cbfcbb"
+
+[exercises."week3-048.FirstCharacter"]
+id = 40373
+checksum = "e13b70677754b635ddc8e7799d970112"
+
+[exercises."week3-049.LastCharacter"]
+id = 40374
+checksum = "86a0ea68f4d89f77fdb5a39bc9610c54"
+
+[exercises."week3-050.SeparatingFirstCharacters"]
+id = 40375
+checksum = "a73ac0e43fd963504e64982d71fcb1dd"
+
+[exercises."week3-051.SeparatingCharacters"]
+id = 40376
+checksum = "e71f5f9d8d2bfacbab7cc8f76925ae6d"
+
+[exercises."week3-052.ReversingName"]
+id = 40377
+checksum = "e7d69a24db5b0bb23d263a59c5f571f9"
+
+[exercises."week3-053.FirstPart"]
+id = 40378
+checksum = "188d4142d1f8f06efe483ffc1d7cabc0"
+
+[exercises."week3-054.TheEndPart"]
+id = 40379
+checksum = "9159da0c6e06b1c6939c51e45274a978"
+
+[exercises."week3-055.WordInsideWord"]
+id = 40380
+checksum = "ca6cc9eae430078fba4348ed23be157c"
+
+[exercises."week3-056.ReversingText"]
+id = 40381
+checksum = "60e9b35869543131f6eecfdfd062246d"
+
+[exercises."week3-057.Words"]
+id = 40382
+checksum = "0d26fefce56d7577f419dbf26b232f2f"
+
+[exercises."week3-058.RecurringWord"]
+id = 40383
+checksum = "59c69f956e41bce66117680e01425c73"
+
+[exercises."week3-059.WordsInReverseOrder"]
+id = 40384
+checksum = "0da5c855c9810dda6df9e88b9a3e5bad"
+
+[exercises."week3-060.WordsInAlphabeticalOrder"]
+id = 40385
+checksum = "9eb3ed76b17d40aa06651a5927941623"
+
+[exercises."week3-061.NumberOfItems"]
+id = 40386
+checksum = "f4ad9b6eee571e6c6f8412b28847df21"
+
+[exercises."week3-062.RemoveLast"]
+id = 40387
+checksum = "cdab874a41c5ca79073cc213a56ee011"
+
+[exercises."week3-063.SumOfNumbers"]
+id = 40388
+checksum = "b4140e66a51156d6fef0822243d8c7a1"
+
+[exercises."week3-064.AverageOfNumbers"]
+id = 40389
+checksum = "c284623891da13e093f4026c27b9bba2"
+
+[exercises."week3-065.LengthsOfStrings"]
+id = 40390
+checksum = "aa2ca3d72762845e492f0d5ebf196a41"
+
+[exercises."week3-066.TheGreatest"]
+id = 40391
+checksum = "b1967e185703e86bc40289b29ed040e9"
+
+[exercises."week3-067.TheVariance"]
+id = 40392
+checksum = "9b28b6cbb147e970e95bc582fbc6425a"
+
+[exercises."week3-068.MoreThanOnce"]
+id = 40393
+checksum = "850b06bbaee4ba8ee501d1a5474ccf43"
+
+[exercises."week3-069.Palindrome"]
+id = 40394
+checksum = "6004e0f146a39438ad7407e47311de81"
+
+[exercises."week3-070.CombiningArrayLists"]
+id = 40395
+checksum = "2f3ce9bb330947cef428f6b47654cfe5"
+
+[exercises."week3-071.SmartCombining"]
+id = 40396
+checksum = "fe4233f8e480ac1d717500d1425dcade"

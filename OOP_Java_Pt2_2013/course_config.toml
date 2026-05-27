@@ -1,0 +1,149 @@
+course = "mooc-2013-OOProgrammingWithJava-PART2"
+
+[exercises."week10-week10_29.PersonAndTheirHeirs"]
+id = 40913
+checksum = "00579ba0a761d18a610703796c0ae597"
+
+[exercises."week10-week10_30.Container"]
+id = 40914
+checksum = "2da56ea7f79abdf6e7703d9cb6bca751"
+
+[exercises."week10-week10_31.FarmSimulator"]
+id = 40915
+checksum = "faa8e2f70186e5d1b390b047d754984e"
+
+[exercises."week10-week10_32.DifferentBoxes"]
+id = 40916
+checksum = "d2994dd06065228fd8f03851a64729d0"
+
+[exercises."week10-week10_33.Dungeon"]
+id = 40917
+checksum = "9741a89b76e48c4c5ebf71ee85f87a91"
+
+[exercises."week11-week11_35.TwoDirectionDictionary"]
+id = 40919
+checksum = "4f8248fbefd37db9745b740b188578c4"
+
+[exercises."week11-week11_36.Greeter"]
+id = 40920
+checksum = "41f1eb5ac296cb1c64bc75167403bdd7"
+
+[exercises."week11-week11_37.Survey"]
+id = 40921
+checksum = "49ce5e507bca1f4594e012db57ad9630"
+
+[exercises."week11-week11_38.NoticeBoard"]
+id = 40922
+checksum = "931536bc74581b472ec3c8d2f2a63364"
+
+[exercises."week11-week11_39.ClickEffect"]
+id = 40923
+checksum = "b3a1dc80d6006dd1e41ef8068f6a8344"
+
+[exercises."week11-week11_41.DrawingBoard"]
+id = 40925
+checksum = "32ecd2f78108bd95cda6d5e2a175996d"
+
+[exercises."week11-week11_42.MovingFigure"]
+id = 40926
+checksum = "563bf36926c3d6c0aec80ca60d43757b"
+
+[exercises."week11-week11_43.GameOfLife"]
+id = 40927
+checksum = "d12f840095142adb9a27bd30eaa9108e"
+
+[exercises."week7-week7_02.CharacterStringChanger"]
+id = 40936
+checksum = "49a74b03be93d8a41a44afa3a62c5664"
+
+[exercises."week7-week7_03.Calculator"]
+id = 40937
+checksum = "072fb8a128768917dafc143ab4e9e3e0"
+
+[exercises."week7-week7_04.ThingSuitcaseAndContainer"]
+id = 40938
+checksum = "a6e81de4499143719aea15501397efdf"
+
+[exercises."week7-week7_06.PromissoryNote"]
+id = 40940
+checksum = "21c46b62e021a668e301364eabcef7f0"
+
+[exercises."week7-week7_07.Dictionary"]
+id = 40941
+checksum = "48c0ee67892e34ee82889ea0722f89b9"
+
+[exercises."week7-week7_08.Airport"]
+id = 40942
+checksum = "0c9a48378a5c1d30428587d1fe7255a9"
+
+[exercises."week8-week8_09.CarRegistrationCentre"]
+id = 40943
+checksum = "038c5e2e6adf60278192d145f1609cd9"
+
+[exercises."week8-week8_10.NationalService"]
+id = 40944
+checksum = "1243c0c84d6f9eea4dcf751d9ee06a2a"
+
+[exercises."week8-week8_11.BoxesAndThings"]
+id = 40945
+checksum = "3ab5ced4398b660206263b2dcf3849b1"
+
+[exercises."week8-week8_12.OnlineShop"]
+id = 40946
+checksum = "85c656f0a43053de54faab1e82c7537e"
+
+[exercises."week8-week8_13.RichFirstPoorLast"]
+id = 40947
+checksum = "5445efa1f898a2cb524e828dacca8020"
+
+[exercises."week8-week8_14.StudentsSortedByName"]
+id = 40948
+checksum = "54a5a770951291fd32ed996974c1e899"
+
+[exercises."week8-week8_15.SortedCards"]
+id = 40949
+checksum = "725119232b7fffc4166ff01a9713a77d"
+
+[exercises."week8-week8_16.SkiJumping"]
+id = 40950
+checksum = "f8f61b0084c68523194a7b3b9876e2a3"
+
+[exercises."week9-week9_17.FirstPackages"]
+id = 40951
+checksum = "cff9e32e994282c1452441850d6f4804"
+
+[exercises."week9-week9_18.Moving"]
+id = 40952
+checksum = "ecbc115beb2b84da01dcd6b4aacc357c"
+
+[exercises."week9-week9_19.MethodArgumentValidation"]
+id = 40953
+checksum = "667fd6ca9fa6f76d8d8271ffdf94b87e"
+
+[exercises."week9-week9_20.SensorsAndTemperatureMeasurement"]
+id = 40954
+checksum = "a8def7bd92922338dd5e051ad95f7601"
+
+[exercises."week9-week9_21.Printer"]
+id = 40955
+checksum = "7ff32b436e1e104e69b7c55880a113da"
+
+[exercises."week9-week9_22.FileAnalysis"]
+id = 40956
+checksum = "13bb18ddae68162522e8e162ed60ee86"
+
+[exercises."week9-week9_23.WordInspection"]
+id = 40957
+checksum = "763915495aeafe22d5bb90ac86edf188"
+
+[exercises."week9-week9_24.MultipleEntryDictionary"]
+id = 40958
+checksum = "eda3e268b541144474d3417f837d7aea"
+
+[exercises."week9-week9_25.DuplicateRemover"]
+id = 40959
+checksum = "8f83b7168d8649a31e9ec4971650d572"
+
+[exercises."week9-week9_26.PhoneSearch"]
+id = 40960
+checksum = "00d6d89a5f41689364f8c5336932c8a2"
